@@ -1,0 +1,181 @@
+.navbar a{
+	color:#FFF;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+ 
+.navbar a:hover{
+	color: #FB2056;
+}
+.navbar .btn{
+	width: 180px;
+    border-radius: 65px;
+    height: 49px;
+    padding-top: 12px;
+    margin-left: 48px;
+}
+.header{
+	background-image: url('img/hero-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center  cover ;
+	min-height: 800px;
+	background-attachment: fixed;
+}
+.header .dark-overlay{
+	background-color:rgb(0,0,0,0.3);
+	min-height: 800px;
+}
+.header img{
+	height: 45px;
+
+}
+.discription{
+	color: #ffffff;
+	margin-top: 200px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Patua One', cursive;
+}
+.discription hr{
+	width: 100px;
+	border: 2px solid  #FB2056;
+}
+.discription .btn{
+	width: 180px;
+    border-radius: 26px;
+    height: 49px;
+    font-size:15px;
+    text-align: center;
+    background-color: #FB2056;
+    color: #fff;
+}
+.section{
+	background-color: rgb(128,128,128,0.2);
+}
+.section p{
+	margin-left:250px;
+	font-size: 17px;
+	margin-top: 70px;
+}
+.section .sen{
+	margin-left: 460px;
+	margin-bottom: 70px;
+}
+.section i{
+	font-size: 100px;
+	margin-top: 84px;
+	margin-left: 100px;
+}
+.event h1{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 80px;
+}
+.event hr{
+	width: 100px;
+	border: 2px solid  #FB2056;
+}
+.event img{
+	width: 92%;	
+	margin-left: 36px
+}
+.event  .pic{
+	margin-top: 120px;
+}
+.pic .btn{
+	width: 180px;
+    border-radius: 26px;
+    height: 49px;
+    font-size:15px; 
+}
+.camp{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 120px;
+}
+.camp h4{
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.camp p{
+	margin-bottom:20px;
+}
+.explore{
+	background-image: url('img/section-bg-img.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center cover;
+	min-height: 800px;
+	background-attachment: fixed;
+}
+ .explore .dark-overlay{
+	background-color:rgb(0,0,0,0.6);
+	min-height: 800px;
+}
+.explore .ex{
+  	margin-top: 250px;
+  	color: #fff;
+  	margin-left:550px;
+  }
+ .explore hr{
+ 	width: 90px;
+	border: 2px solid  #FB2056;
+	margin-right: 700px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+ }
+  
+   .explore .btn{
+   	width: 180px;
+    border-radius: 26px;
+    height: 49px;
+    font-size:15px; 
+    background-color: #FB2056;
+    font-weight: bold;
+    color: #fff
+   }
+
+ .tours{
+ 	margin-top: 140px;
+ 	margin-bottom: 100px;
+ }
+ .tours img{
+ 	border-radius: 4px;
+ }
+ .tours .first-img{
+ 	margin-right: 120px;
+ 	margin-left: 50px;
+ }
+ .tours h2{
+ 	font-weight: bold;
+ 	font-size: 45px;
+ }
+ .tours p{
+ 	font-size: 18px;
+ }
+ .tours hr{
+ 	width: 60px;
+	border: 2px solid  #FB2056;
+	margin-right: 700px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+ }
+  .tours .btn{
+  	width: 180px;
+    border-radius: 26px;
+    height: 49px;
+    font-size:15px; 
+    background-color: #FB2056;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 30px;
+  }
+  .footer p{
+  	color: #fff;
+  	text-align: center;
+  }
+  .footer{
+  	padding: 20px;
+  }
